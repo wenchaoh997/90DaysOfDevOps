@@ -10,23 +10,18 @@ id: 1048731
 ## 简介 - Day 1 
 
 在90天中的第一天，我们开始学习DevOps的基本理解和工具。这些可以有助于建立DevOps的思维方式。
-<!-- Day 1 of our 90 days and adventure to learn a good foundational understanding of DevOps and tools that help with a DevOps mindset.  -->
 
 几年前，我开始学习相关内容，但我的关注于虚拟化平台和基于云的技术，主要研究基础设施即代码 (Infrastructure as Code, [IaC](https://www.ibm.com/cloud/learn/infrastructure-as-code)) 和Terraform和Chef的应用程序配置管理。
-<!-- This learning journey started for me a few years back but my focus then was around virtualisation platforms and cloud based technologies, I was looking mostly into Infrastructure as Code and Application configuration management with Terraform and Chef.  -->
 
 接着来到2021年3月，我得到了一个可以将精力集中在Veeam的Kasten的云原生部署上的机会。这个项目专注于Kubernetes和DepOps以及相关的社区。在开始学习后，我很快发现在除了Kubernetes和容器化的基础知识，那里还有一个非常广阔的世界。我开始在社区中交流学习更多关于DevOps文化、工具和流程，最终我想公开地分享这些想法。
-<!-- Fast forward to March 2021, I was given an amazing opportunity to concentrate my efforts around the Cloud Native strategy at Kasten by Veeam. Which was going to be a massive focus on Kubernetes and DevOps and the community surrounding these technologies. I started my learning journey and quickly realised there was a very wide world aside from just learning the fundamentals of Kubernetes and Containerisation and it was then when I started speaking to the community and learning more and more about the DevOps culture, tooling and processes so I started documenting some of the areas I wanted to learn in public.  -->
 
 [So you want to learn DevOps?](https://blog.kasten.io/devops-learning-curve)
 
 ## 开始我们的旅程吧
 
 如果你阅读了以上的博客，你会发现这是我学习过程中的进阶内容。我认为我并不是以上以上任一领域的专家，但我希望分享一些免费和需付费的资源，我们可以按需选择。
-<!-- If you read the above blog you will see this is a high level contents for my learning journey and I will say at this point I am no where near an expert in any of these sections but what I wanted to do was share some resources both FREE and some paid for but an option for both as we all have different circumstances.  -->
 
 在接下来的90天里，我想记录这些资料并涵盖那些基础领域。我希望社区参与进来，分享你的相关经历和资源，以便我们一起学习共同进步。
-<!-- Over the next 90 days I want to document these resources and cover those foundational areas, I would love for the community to also get involved share your journey and resources so we can learn in public and help each other.  -->
 
 在该项目开头的README中，你会了解到我已经将内容拆分成多个小节，基本上是由12周加6天组成。前6天，我们会大致探讨DevOps的基础，后续再深入到一些特定领域。这份清单不是完美的，再次希望社区参与进来并一起帮助它成为有用的资源。
 <!-- You will see from the opening readme in the project repository that I have split things into sections and it is basically 12 weeks plus 6 days. The first 6 days we will explore the fundamentals of DevOps in general before diving into some of the specific areas, by no way is this list exhaustive and again would love for the community to assist in making this a useful resource.  -->
